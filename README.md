@@ -1,9 +1,9 @@
 ### 😐MY GITHUB PROFILE😐:
 
 ## About me 
-- NAME -> Brais G.P
-- AGE -> 19
-- FROM -> A Coruña, Spain
+- Brais G.P
+- 19
+- A Coruña, Spain
 
 ## Contact:
 
