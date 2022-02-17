@@ -1,6 +1,6 @@
 ### 😐MY GITHUB PROFILE😐:
 
-Computer Science student on University of A Coruña
+Computer Science student in University of A Coruña
 
 ## About me: 
 - Brais G.P
