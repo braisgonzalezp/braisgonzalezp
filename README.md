@@ -1,6 +1,6 @@
 ### 😐MY GITHUB PROFILE😐:
 
-## About me 
+## About me: 
 - Brais G.P
 - 19
 - A Coruña, Spain
