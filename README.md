@@ -1,3 +1,13 @@
-### Hi UwU 😐
+### 😐MY GITHUB PROFILE😐:
 
-![Image Text](https://1000marcas.net/wp-content/uploads/2019/12/UDC-emblema-600x338.jpg) 
+## About me 
+- NAME -> Brais G.P
+- AGE -> 19
+- FROM -> A Coruña, Spain
+
+## Contact:
+
+- Email -> <braisgonzalez2002@gmail.com>
+- IG -> @braisgonzalezp
+- TW -> @braisgonzalezp
+
