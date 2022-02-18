@@ -1,15 +1,40 @@
 ### 😐MY GITHUB PROFILE😐:
 
-Computer Science student in University of A Coruña
+
+Hi! I'm Brais a computer science student and a Java and C developer.
+
+## Programming Languages and tools:
+
+### Lengages:
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ccc.png"></code>](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/javaaa.png"></code>](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Html.png"></code>](https://es.wikipedia.org/wiki/HTML)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ocml.png"></code>](https://es.wikipedia.org/wiki/Caml)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Octave.png"></code>](https://es.wikipedia.org/wiki/GNU_Octave)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/RR.png"></code>](https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n))
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sqlll.png"></code>](https://es.wikipedia.org/wiki/SQL)
+
+## Tools:
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>](https://www.jetbrains.com/es-es/idea/download/#section=mac)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/cl.png"></code>](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960748608&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KEbcZseC-Cc5svP1c2Yg-sULADbh2nJHQ-t-WY-CB1s7LC-VKPrKcoaAvfNEALw_wcB)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sub.png"></code>](https://www.sublimetext.com/)
+
+
+
 
 ## About me: 
 - Brais G.P
 - 19 y.o
-- A Coruña, Spain
+- A Coruña, Spain 
 
-## Contact:
 
-- Email -> <braisgonzalez2002@gmail.com>
-- IG -> [@braisgonzalezp](https://www.instagram.com/braisgonzalezp/)
-- TW -> [@braisgonzalezp](https://twitter.com/braisgonzalezp)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/braisgonzalezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="braigonzalezp" height="30" width="40" /></a>
+<a href="https://www.instagram.com/braisgonzalezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="braigonzalezp" height="30" width="40" /></a>
+
+
+
+  
+  
 
