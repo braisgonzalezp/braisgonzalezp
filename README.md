@@ -1,4 +1,4 @@
-### 😐MY GITHUB PROFILE😐:
+### 😐MY GITHUB PROFILE😐
 
 
 Hi! I'm Brais just a computer science student.
