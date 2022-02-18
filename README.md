@@ -18,6 +18,7 @@ Hi! I'm Brais a computer science student and a Java and C developer.
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>](https://www.jetbrains.com/es-es/idea/download/#section=mac)
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/cl.png"></code>](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960748608&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KEbcZseC-Cc5svP1c2Yg-sULADbh2nJHQ-t-WY-CB1s7LC-VKPrKcoaAvfNEALw_wcB)
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sub.png"></code>](https://www.sublimetext.com/)
+[<code><img height="30" src="https://github.com/braisgonzalezp/braisgonzalezp/blob/main/DBeaver_logo.png"></code>](https://dbeaver.io/)
 
 
 
