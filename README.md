@@ -10,6 +10,9 @@ Hi! I'm Brais just a computer science student.
   
   -19 y.o
   
+  
+  -University of A Coruña
+  
  -A Coruña, Spain 
   
   </details>
