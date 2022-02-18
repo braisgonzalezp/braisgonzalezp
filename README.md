@@ -10,6 +10,6 @@ Computer Science student in University of A Coruña
 ## Contact:
 
 - Email -> <braisgonzalez2002@gmail.com>
-- IG -> @braisgonzalezp
-- TW -> @braisgonzalezp
+- IG -> [@braisgonzalezp](https://www.instagram.com/braisgonzalezp/)
+- TW -> [@braisgonzalezp](https://twitter.com/braisgonzalezp)
 
