@@ -4,7 +4,7 @@ Computer Science student in University of A Coruña
 
 ## About me: 
 - Brais G.P
-- 19 years old
+- 19 y.o
 - A Coruña, Spain
 
 ## Contact:
