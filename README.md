@@ -1,7 +1,27 @@
 ### 😐MY GITHUB PROFILE😐:
 
 
-Hi! I'm Brais a computer science student and a Java and C developer.
+Hi! I'm Brais just a computer science student.
+
+<details><summary>Who I am 👤</summary><br> 
+
+  -Brais G.P
+
+  
+  -19 y.o
+  
+ -A Coruña, Spain 
+  
+  </details>
+  
+  
+  <details><summary>Stats📶</summary><br> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braisgonzalezp)](https://github.com/anuraghazra/github-readme-stats)
+
+
+   </details>
+  
 
 ## Programming Languages and tools:
 
@@ -21,21 +41,13 @@ Hi! I'm Brais a computer science student and a Java and C developer.
 [<code><img height="30" src="https://github.com/braisgonzalezp/braisgonzalezp/blob/main/DBeaver_logo.png"></code>](https://dbeaver.io/)
 
 
-
-
-## About me: 
-- Brais G.P
-- 19 y.o
-- A Coruña, Spain 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/braisgonzalezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="braigonzalezp" height="30" width="40" /></a>
 <a href="https://www.instagram.com/braisgonzalezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="braigonzalezp" height="30" width="40" /></a>
 
-
-
   
+  
+ 
   
 
