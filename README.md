@@ -28,7 +28,7 @@ Hi! I'm Brais just a computer science student.
 
 ## Programming Languages and tools:
 
-### Lengages:
+### Programming Languages:
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ccc.png"></code>](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/javaaa.png"></code>](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Html.png"></code>](https://es.wikipedia.org/wiki/HTML)
@@ -49,8 +49,12 @@ Hi! I'm Brais just a computer science student.
 <a href="https://twitter.com/braisgonzalezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="braigonzalezp" height="30" width="40" /></a>
 <a href="https://www.instagram.com/braisgonzalezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="braigonzalezp" height="30" width="40" /></a>
 
-  
-  
+
+## Languages:
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/esp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/ing.png"></code>  
+<code><img height="30" src="https://github.com/braisgonzalezp/braisgonzalezp/blob/main/gal-modified.png"></code>  
+ 
  
   
 
