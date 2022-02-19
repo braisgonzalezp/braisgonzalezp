@@ -52,8 +52,7 @@ Hi! I'm Brais just a computer science student.
 
 ## Languages:
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/esp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/ing.png"></code>  
-<code><img height="30" src="https://github.com/braisgonzalezp/braisgonzalezp/blob/main/gal-modified.png"></code>  
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/ing.png"></code> <code><img height="30" src="https://github.com/braisgonzalezp/braisgonzalezp/blob/main/gal-modified.png"></code>  
  
  
   
