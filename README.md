@@ -52,6 +52,6 @@ Hi! I'm Brais just a computer science student.
 <a href="https://www.instagram.com/braisgonzalezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="braigonzalezp" height="30" width="40" /></a>
 
 ## Languages:
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/ing.png" alt="linux" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/esp.png" alt="linux" width="40" height="40"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/ing.png" alt="linux" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/braisgonzalezp/braisgonzalezp/blob/main/gal-modified.png" alt="linux" width="40" height="40"/> </a>
