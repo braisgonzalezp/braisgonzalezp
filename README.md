@@ -36,6 +36,7 @@ Hi! I'm Brais just a computer science student.
 <a href="https://ocaml.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ocml.png" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/RR.png" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.oracle.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="PYTHON" width="40" height="40"/> </a> </p>
 
 
 ## Tools:
