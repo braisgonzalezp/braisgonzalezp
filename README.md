@@ -1,7 +1,9 @@
-### 😐MY GITHUB PROFILE😐
 
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoya97&include_all_commits=true&rank_icon=github&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoya97&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+</div>
 
-Hi! I'm Brais just a computer science student.
 
 <details><summary>Who I am 👤</summary><br> 
 
@@ -16,15 +18,6 @@ Hi! I'm Brais just a computer science student.
  -A Coruña, Spain 
   
   </details>
-  
-  
-  <details><summary>Stats📶</summary><br> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braisgonzalezp)](https://github.com/anuraghazra/github-readme-stats)
-
-
-   </details>
-  
 
 ## Programming Languages and tools:
 
@@ -55,6 +48,8 @@ Hi! I'm Brais just a computer science student.
 <p align="left">
 <a href="https://twitter.com/braisgonzalezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="braigonzalezp" height="30" width="40" /></a>
 <a href="https://www.instagram.com/braisgonzalezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="braigonzalezp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brais-gonz%C3%A1lez-pi%C3%B1eiro-979034300/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="Brais" height="30" width="40" /></a>
+
 
 ## Languages:
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/esp.png" alt="linux" width="40" height="40"/> </a>
